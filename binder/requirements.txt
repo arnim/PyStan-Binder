@@ -1,3 +1,2 @@
 pystan
-matplotlib
-scipy
+arviz
