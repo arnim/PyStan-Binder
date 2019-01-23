@@ -1,2 +1,2 @@
 pystan
-arviz
+git+git://github.com/arviz-devs/arviz.git
